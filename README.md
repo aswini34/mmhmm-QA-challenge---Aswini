@@ -8,7 +8,7 @@ Hi, I have completed the QA challenge and below are the deliverables.
 
 2. Here is the [Test plan](https://github.com/aswini34/mmhmm-QA-challenge---Aswini/files/8036436/Test.plan.for.Bookshelf.Management.prototype.docx) for Bookshelf Management prototype.
 
-
+3. You can find the walkthrough video as a separate file above.
 
 
 
