@@ -1,6 +1,5 @@
 # mmhmm-QA-challenge---Aswini
 
-Test - List of identified bugs.docx?raw=true
 
 **List of identified bugs:**
 
