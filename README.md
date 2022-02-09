@@ -1,9 +1,9 @@
 # mmhmm-QA-challenge---Aswini
 
 
-**List of identified bugs:**
+## List of identified bugs: 
 
-**Main functional bugs:**
+## Main functional bugs:
 
 1.	Image is not rendering properly in the index page after submitting new book form.
 
@@ -29,7 +29,7 @@
 
     **Cause:** I assume code issue here
 
-**Other non-critical bugs/UI related issues:**
+## Other non-critical bugs/UI related issues:
 
 6.	Books are not getting added in the order they were entered by the user.
 
@@ -77,7 +77,7 @@ It would have been very useful if the button had functionality in the prototype,
 
     **Cause:** Font styling issue
 
-**Good to have features/Future Improvements:**
+## Good to have features/Future Improvements:
 
 1.	Edit option in the index page – it would have been very useful if there was an edit option to edit the added books.
 2.	Page navigation after saving the form. 
@@ -89,7 +89,7 @@ It would have been very useful if the button had functionality in the prototype,
     **Possible solution 2:** The user can expect another button at the bottom of the form so that when it is clicked, it can take the user back to the index page where he can validate if the new book has been added or not.
 In this case, the user should have 2 choices, one is to go back to index page after adding the number of books he intended to or second option is to stay back in the form to add another new book.
 
-**Other finding:**
+## Other finding:
 1.	Not working in IE and Firefox
 
 
